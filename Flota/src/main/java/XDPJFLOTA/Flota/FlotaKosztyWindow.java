@@ -32,6 +32,7 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 	 * Creates new form FlotaKoszty
 	 */
 	public FlotaKosztyWindow() {
+		setLocation(350, 150);
 		setPreferredSize(new Dimension(895, 510));
 		initComponents();
 	}

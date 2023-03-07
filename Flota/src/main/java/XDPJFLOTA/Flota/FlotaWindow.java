@@ -43,6 +43,7 @@ public class FlotaWindow extends javax.swing.JFrame {
      */
     public FlotaWindow() {
     	setTitle("X DISC Flota v 1.0");
+    	setLocation(350, 150);
     	getContentPane().setForeground(Color.DARK_GRAY);
     	getContentPane().setFont(new Font("Segoe UI", Font.PLAIN, 12));
     	getContentPane().setPreferredSize(new Dimension(1195, 600));
@@ -78,13 +79,13 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel3.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel3.setBounds(18, 86, 78, 25);
         jTextField1 = new javax.swing.JTextField();
-        jTextField1.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField1.setBounds(100, 86, 170, 25);
         jLabel4 = new javax.swing.JLabel();
         jLabel4.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel4.setBounds(292, 86, 78, 25);
         jTextField2 = new javax.swing.JTextField();
-        jTextField2.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField2.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField2.setBounds(374, 86, 170, 25);
         jLabel5 = new javax.swing.JLabel();
         jLabel5.setFont(new Font("Segoe UI", Font.PLAIN, 12));
@@ -109,7 +110,7 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel8.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel8.setBounds(18, 150, 78, 25);
         jTextField3 = new javax.swing.JTextField();
-        jTextField3.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField3.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField3.setBounds(100, 150, 444, 25);
         jLabel9 = new javax.swing.JLabel();
         jLabel9.setFont(new Font("Segoe UI", Font.PLAIN, 12));
@@ -121,20 +122,20 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel11.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel11.setBounds(292, 186, 78, 25);
         jTextField4 = new javax.swing.JTextField();
-        jTextField4.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField4.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField4.setBounds(374, 186, 170, 25);
         
         jLabel12 = new javax.swing.JLabel();
         jLabel12.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel12.setBounds(292, 222, 78, 25);
         jTextField5 = new javax.swing.JTextField();
-        jTextField5.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField5.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField5.setBounds(374, 222, 170, 25);
         jLabel13 = new javax.swing.JLabel();
         jLabel13.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel13.setBounds(18, 258, 78, 25);
         jTextField6 = new javax.swing.JTextField();
-        jTextField6.setFont(new Font("Segoe UI", Font.PLAIN, 10));
+        jTextField6.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jTextField6.setBounds(100, 260, 444, 25);
         jButton1 = new javax.swing.JButton();
         jButton1.setBounds(661, 260, 170, 25);

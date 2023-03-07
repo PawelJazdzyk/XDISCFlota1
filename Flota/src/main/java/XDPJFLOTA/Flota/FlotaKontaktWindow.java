@@ -20,6 +20,7 @@ public class FlotaKontaktWindow extends javax.swing.JFrame {
      * Creates new form FlotaKontakt
      */
     public FlotaKontaktWindow() {
+    	setLocation(350, 150);
     	getContentPane().setPreferredSize(new Dimension(440, 300));
     	getContentPane().setMaximumSize(new Dimension(440, 300));
     	getContentPane().setMinimumSize(new Dimension(440, 300));
