@@ -41,8 +41,8 @@ private static MimeMessage prepareMessageObject(String recipient,String recipien
 	
 	mimeMessage.setRecipient(Message.RecipientType.TO, new InternetAddress(recipient));
 	mimeMessage.setRecipient(Message.RecipientType.CC, new InternetAddress(recipientdw1));
-	mimeMessage.setRecipient(Message.RecipientType.CC, new InternetAddress(recipientdw1));
-	mimeMessage.setRecipient(Message.RecipientType.CC, new InternetAddress(recipientdw1));
+	mimeMessage.addRecipient(Message.RecipientType.CC, new InternetAddress(recipientdw2));
+	mimeMessage.addRecipient(Message.RecipientType.CC, new InternetAddress(recipientdw3));
 	
 				
 	return mimeMessage;

@@ -89,7 +89,7 @@ public class FlotaKontaktWindow extends javax.swing.JFrame {
     	
     	String tekst = jTextArea1.getText();
     	
-    	MimeMessage message = MailMessagePreparer.prepareTextMessage("pawel.jazdzyk@x-disc.pl", "FLOTA - formularz kontaktowy (" + username + ")", tekst);
+    	MimeMessage message = MailMessagePreparer.prepareTextMessage("jazdzyk.pawel@gmail.com", "FLOTA - formularz kontaktowy (" + username + ")", tekst);
     	Transport.send(message);
     	
     	try {

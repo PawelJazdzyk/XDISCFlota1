@@ -649,10 +649,8 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 			jLabel68.setText(String.format("%.2f",procentXDISCVin) + " %");
 			jLabel69.setText(String.format("%.2f",procentPVD) + " %");
 			jLabel70.setText(String.format("%.2f",procentZ) + " %");
-			
-			
+						
 		} 
-
 	}
 	public void wyslijraport() throws MessagingException {
 			  	
@@ -666,11 +664,9 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		String adres2 = "pawel.jazdzyk@x-disc.pl";
     	String adres3 = "anna.cudnik@x-disc.pl";
     	String adres4 = "karolina.pawlak@x-disc.pl";
-    	
-    	
+    	   	
     	String head = "Rozliczenie kosztów samochodów firmowych za okres " + mojadata1 + " - " + mojadata2;
-    	
-    	
+    	   	
 		String body = "Dzień Dobry, \n \n"
 				+ "Poniżej rozlicznie kosztów za użytkowanie samochodów firmowych \n \n"
 				+ "Okres rozliczenia: " + mojadata1 + " - "
@@ -685,8 +681,7 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 				"Raport wygenerowany automatycznie przez System Raportowania X DISC."
 				+ " Prosimy na niego nie odpowiadać.\nWszelkie pytania prosimy kierować "
 				+ "na adres pawel.jazdzyk@x-disc.pl";
-				
-		
+						
 		//System.out.println(body);
     	
     	MimeMessage raport = MailMessagePreparer2.prepareTextMessage(adres1, adres2, adres3, adres4, head, body);
@@ -701,8 +696,7 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		} catch (InterruptedException e) {
 			
 			e.printStackTrace();
-		}
-    	
+		}    	
     }
 
 	/**
