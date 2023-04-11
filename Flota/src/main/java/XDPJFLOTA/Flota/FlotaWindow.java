@@ -447,7 +447,8 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel13_1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
         jLabel13_1.setBounds(18, 521, 526, 25);
         getContentPane().add(jLabel13_1);
-        String link = "X:\\sekretariat\\Flota\\XDISCFlota.csv";
+        String link = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+        		"X:\\sekretariat\\Flota\\XDISCFlota.csv";
         BufferedReader br = null;
 		try {
 			br = new BufferedReader(new FileReader(link));
@@ -554,6 +555,7 @@ public class FlotaWindow extends javax.swing.JFrame {
 		 FileOutputStream plik = null;
 			try {
 				plik = new FileOutputStream(
+						//"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv",true);
 						"X:\\sekretariat\\Flota\\XDISCFlota.csv", true);
 			} catch (FileNotFoundException e) { 
 				e.printStackTrace();
@@ -612,7 +614,8 @@ public class FlotaWindow extends javax.swing.JFrame {
 			out.println();
 			out.close();
 			
-			String plik1 = "X:\\sekretariat\\Flota\\XDISCFlota.csv"; 
+			String plik1 = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+					"X:\\sekretariat\\Flota\\XDISCFlota.csv"; 
 			
 			BufferedReader br = null;
 			try {
@@ -638,7 +641,8 @@ public class FlotaWindow extends javax.swing.JFrame {
        		model.addRow(datarow);
        		}
        		       		
-       		String link = "X:\\sekretariat\\Flota\\XDISCFlota.csv";
+       		String link = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+       				"X:\\sekretariat\\Flota\\XDISCFlota.csv";
 			
     		List<FlotaClass> flota = ObslugaCSVFlota.wczytaj(link);
     	   		
@@ -668,7 +672,8 @@ public class FlotaWindow extends javax.swing.JFrame {
 	}
 	
 	public void numer() {
-		String plik1 = "X:\\sekretariat\\Flota\\XDISCFlota.csv"; 
+		String plik1 = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+				"X:\\sekretariat\\Flota\\XDISCFlota.csv"; 
 		
 		BufferedReader br = null;
 		try {
@@ -698,7 +703,8 @@ public class FlotaWindow extends javax.swing.JFrame {
 		  public void mouseClicked(java.awt.event.MouseEvent evt) {
 		try {
 			
-		String link = "X:\\sekretariat\\Flota\\XDISCFlota.csv";
+		String link = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+				"X:\\sekretariat\\Flota\\XDISCFlota.csv";
 						
 		List<FlotaClass> flota = ObslugaCSVFlota.wczytaj(link);
 						  

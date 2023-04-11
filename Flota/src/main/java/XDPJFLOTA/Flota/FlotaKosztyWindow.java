@@ -378,7 +378,8 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		LocalDate mojadata1 = data1.toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
 		LocalDate mojadata2 = data2.toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
 
-		String file = "X:\\sekretariat\\Flota\\XDISCFlota.csv";
+		String file = //"C:\\Users\\jazdz\\OneDrive\\Pulpit\\Projekty\\Flota\\XDISCFlota.csv";
+				"X:\\sekretariat\\Flota\\XDISCFlota.csv";
 
 		List<FlotaClass> flota = ObslugaCSVFlota.wczytaj(file);
 		
@@ -661,9 +662,12 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		LocalDate mojadata2 = data2.toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
 		 	
 		String adres1 = "anita.koltun@x-disc.pl";
+		//String adres1 = "jazdzyk.pawel@gmail.com";
 		String adres2 = "pawel.jazdzyk@x-disc.pl";
     	String adres3 = "anna.cudnik@x-disc.pl";
+		//String adres3 = "ochitos@gmail.com";
     	String adres4 = "karolina.pawlak@x-disc.pl";
+		//String adres4 = "jazdzyk.pawel@gmail.com";
     	   	
     	String head = "Rozliczenie kosztów samochodów firmowych za okres " + mojadata1 + " - " + mojadata2;
     	   	
