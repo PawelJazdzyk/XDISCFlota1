@@ -22,6 +22,8 @@ public class FlotaClass {
 	private String kmdept3;
 	private String loger;
 	
+	//flota
+	
 	public FlotaClass(String lp, String datawydania, String datazdania, String user1, String dept1, String km,
 			String dept2, String dept3, String cel, String dataczas, String licznik1, String samochod, String licznik2,
 			String user2, String uwagi, String kmdept1, String kmdept2, String kmdept3, String loger) {
