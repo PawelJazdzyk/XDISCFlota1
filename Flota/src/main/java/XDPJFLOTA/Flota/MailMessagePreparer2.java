@@ -14,7 +14,7 @@ public class MailMessagePreparer2 {
 public static MimeMessage prepareTextMessage(String recipient,String recipientdw1, String recipientdw2, 
 		String recipientdw3,String subject, String content) throws MessagingException {
 	
-	MimeMessage textMessage = prepareMessageObject(recipient,recipientdw1,recipientdw2,recipientdw1, subject);
+	MimeMessage textMessage = prepareMessageObject(recipient,recipientdw1,recipientdw2,recipientdw3, subject);
 	
 	textMessage.setText(content);
 	
