@@ -8,7 +8,7 @@ import javax.mail.MessagingException;
 import javax.mail.Transport;
 import javax.mail.internet.MimeMessage;
 import java.awt.Dimension;
-
+//kontakt
 /**
  *
  * @author jazdz
