@@ -65,58 +65,58 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		jLabel30.setBounds(300, 78, 31, 25);
 		jLabel31 = new javax.swing.JLabel();
 		jLabel31.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel31.setBounds(139, 150, 115, 25);
+		jLabel31.setBounds(137, 125, 115, 25);
 		jLabel32 = new javax.swing.JLabel();
 		jLabel32.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel32.setBounds(18, 150, 115, 25);
+		jLabel32.setBounds(18, 125, 115, 25);
 		jLabel33 = new javax.swing.JLabel();
 		jLabel33.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel33.setBounds(331, 150, 115, 25);
+		jLabel33.setBounds(331, 125, 115, 25);
 		jLabel34 = new javax.swing.JLabel();
 		jLabel34.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel34.setBounds(18, 181, 115, 25);
+		jLabel34.setBounds(18, 156, 115, 25);
 		jLabel35 = new javax.swing.JLabel();
 		jLabel35.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel35.setBounds(139, 181, 115, 25);
+		jLabel35.setBounds(137, 156, 115, 25);
 		jLabel36 = new javax.swing.JLabel();
 		jLabel36.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel36.setBounds(331, 181, 115, 25);
+		jLabel36.setBounds(331, 156, 115, 25);
 		jLabel37 = new javax.swing.JLabel();
 		jLabel37.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel37.setBounds(18, 212, 115, 25);
+		jLabel37.setBounds(18, 187, 115, 25);
 		jLabel38 = new javax.swing.JLabel();
 		jLabel38.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel38.setBounds(139, 212, 115, 25);
+		jLabel38.setBounds(137, 187, 115, 25);
 		jLabel39 = new javax.swing.JLabel();
 		jLabel39.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel39.setBounds(331, 212, 115, 25);
+		jLabel39.setBounds(331, 187, 115, 25);
 		jLabel40 = new javax.swing.JLabel();
 		jLabel40.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel40.setBounds(331, 243, 115, 25);
+		jLabel40.setBounds(331, 218, 115, 25);
 		jLabel41 = new javax.swing.JLabel();
 		jLabel41.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel41.setBounds(18, 243, 115, 25);
+		jLabel41.setBounds(18, 218, 115, 25);
 		jLabel42 = new javax.swing.JLabel();
 		jLabel42.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel42.setBounds(139, 243, 115, 25);
+		jLabel42.setBounds(137, 218, 115, 25);
 		jLabel43 = new javax.swing.JLabel();
 		jLabel43.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel43.setBounds(331, 274, 115, 25);
+		jLabel43.setBounds(331, 249, 115, 25);
 		jLabel44 = new javax.swing.JLabel();
 		jLabel44.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel44.setBounds(139, 274, 115, 25);
+		jLabel44.setBounds(137, 249, 115, 25);
 		jLabel45 = new javax.swing.JLabel();
 		jLabel45.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel45.setBounds(18, 274, 115, 25);
+		jLabel45.setBounds(18, 249, 115, 25);
 		jLabel46 = new javax.swing.JLabel();
 		jLabel46.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel46.setBounds(331, 305, 115, 25);
+		jLabel46.setBounds(331, 310, 115, 25);
 		jLabel47 = new javax.swing.JLabel();
 		jLabel47.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel47.setBounds(139, 305, 115, 25);
+		jLabel47.setBounds(137, 310, 115, 25);
 		jLabel48 = new javax.swing.JLabel();
 		jLabel48.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel48.setBounds(18, 305, 115, 25);
+		jLabel48.setBounds(18, 310, 115, 25);
 		jSeparator2 = new javax.swing.JSeparator();
 		jSeparator2.setBounds(514, 78, 17, 364);
 		jLabel49 = new javax.swing.JLabel();
@@ -149,25 +149,25 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		jButton1.setBounds(293, 418, 211, 23);
 		jLabel64 = new javax.swing.JLabel();
 		jLabel64.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel64.setBounds(139, 341, 115, 25);
+		jLabel64.setBounds(149, 341, 115, 25);
 		jLabel65 = new javax.swing.JLabel();
 		jLabel65.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel65.setBounds(456, 150, 48, 25);
+		jLabel65.setBounds(456, 125, 48, 25);
 		jLabel66 = new javax.swing.JLabel();
 		jLabel66.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel66.setBounds(456, 181, 48, 25);
+		jLabel66.setBounds(456, 156, 48, 25);
 		jLabel67 = new javax.swing.JLabel();
 		jLabel67.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel67.setBounds(456, 212, 48, 25);
+		jLabel67.setBounds(456, 187, 48, 25);
 		jLabel68 = new javax.swing.JLabel();
 		jLabel68.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel68.setBounds(456, 243, 48, 25);
+		jLabel68.setBounds(456, 218, 48, 25);
 		jLabel69 = new javax.swing.JLabel();
 		jLabel69.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel69.setBounds(456, 274, 48, 25);
+		jLabel69.setBounds(456, 249, 48, 25);
 		jLabel70 = new javax.swing.JLabel();
 		jLabel70.setFont(new Font("Segoe UI", Font.PLAIN, 12));
-		jLabel70.setBounds(456, 305, 48, 25);
+		jLabel70.setBounds(456, 310, 48, 25);
 
 		// setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 		setResizable(false);
@@ -367,6 +367,32 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		jLabel55_1.setFont(new Font("Segoe UI", Font.BOLD, 14));
 		jLabel55_1.setBounds(524, 418, 347, 25);
 		getContentPane().add(jLabel55_1);
+		
+		JLabel jLabel45_1 = new JLabel();
+		jLabel45_1.setText("PVP");
+		jLabel45_1.setForeground(new Color(102, 102, 102));
+		jLabel45_1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
+		jLabel45_1.setBounds(18, 278, 115, 27);
+		getContentPane().add(jLabel45_1);
+		
+		JLabel jLabel43_1 = new JLabel();
+		jLabel43_1.setText("Udzial % w kosztach:");
+		jLabel43_1.setForeground(new Color(102, 102, 102));
+		jLabel43_1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
+		jLabel43_1.setBounds(331, 278, 115, 27);
+		getContentPane().add(jLabel43_1);
+		
+		jLabel69_1 = new JLabel();
+		jLabel69_1.setForeground(new Color(102, 102, 102));
+		jLabel69_1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
+		jLabel69_1.setBounds(456, 278, 48, 27);
+		getContentPane().add(jLabel69_1);
+		
+		jLabel44_1 = new JLabel();
+		jLabel44_1.setForeground(new Color(102, 102, 102));
+		jLabel44_1.setFont(new Font("Segoe UI", Font.PLAIN, 12));
+		jLabel44_1.setBounds(137, 278, 115, 25);
+		getContentPane().add(jLabel44_1);
 
 		pack();
 	}
@@ -436,6 +462,9 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		double kosztPVDdept1 = 0;
 		double kosztPVDdept2 = 0;
 		double kosztPVDdept3 = 0;
+		double kosztPVPdept1 = 0;
+		double kosztPVPdept2 = 0;
+		double kosztPVPdept3 = 0;
 		double kosztZdept1 = 0;
 		double kosztZdept2 = 0;
 		double kosztZdept3 = 0;
@@ -591,6 +620,27 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 			}
 			if (mojadata1.minusDays(1).isBefore(LocalDate.parse(emp.getDatawydania()))
 					&& mojadata2.plusDays(1).isAfter(LocalDate.parse(emp.getDatawydania()))
+					&& emp.getDept1().equals("PVP")) {
+
+				kosztPVPdept1 += Double.parseDouble(emp.getKmdept1().replace(",", "."));
+
+			}
+			if (mojadata1.minusDays(1).isBefore(LocalDate.parse(emp.getDatawydania()))
+					&& mojadata2.plusDays(1).isAfter(LocalDate.parse(emp.getDatawydania()))
+					&& emp.getDept2().equals("PVP")) {
+
+				kosztPVPdept2 += Double.parseDouble(emp.getKmdept2().replace(",", "."));
+
+			}
+			if (mojadata1.minusDays(1).isBefore(LocalDate.parse(emp.getDatawydania()))
+					&& mojadata2.plusDays(1).isAfter(LocalDate.parse(emp.getDatawydania()))
+					&& emp.getDept3().equals("PVP")) {
+
+				kosztPVPdept3 += Double.parseDouble(emp.getKmdept3().replace(",", "."));
+
+			}
+			if (mojadata1.minusDays(1).isBefore(LocalDate.parse(emp.getDatawydania()))
+					&& mojadata2.plusDays(1).isAfter(LocalDate.parse(emp.getDatawydania()))
 					&& emp.getDept1().equals("Zarząd")) {
 
 				kosztZdept1 += Double.parseDouble(emp.getKmdept1().replace(",", "."));
@@ -624,31 +674,41 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 			
 			double totalkosztPVD = kosztPVDdept1+kosztPVDdept2+kosztPVDdept3;
 			
+			double totalkosztPVP = kosztPVPdept1+kosztPVPdept2+kosztPVPdept3;
+			
 			double totalkosztZ = kosztZdept1+kosztZdept2+kosztZdept3;
 			
 			double total = totalkosztODMCD+totalkosztODMVin+totalkosztXDISCCD+
-					+totalkosztXDISCVin+totalkosztPVD+totalkosztZ;
+					+totalkosztXDISCVin+totalkosztPVD+totalkosztPVP+totalkosztZ;
+			
+
 			
 			jLabel31.setText(Double.toString(totalkosztODMCD)+" km");
 			jLabel35.setText(Double.toString(totalkosztODMVin)+" km");
 			jLabel38.setText(Double.toString(totalkosztXDISCCD)+" km");
 			jLabel42.setText(Double.toString(totalkosztXDISCVin)+" km");
 			jLabel44.setText(Double.toString(totalkosztPVD)+" km");
+			jLabel44_1.setText(Double.toString(totalkosztPVP)+" km");
 			jLabel47.setText(Double.toString(totalkosztZ)+" km");
 			jLabel64.setText(Double.toString(total)+" km");
+			
+			
 			
 			double procentODMCD = (totalkosztODMCD/total)*100;
 			double procentODMVin = (totalkosztODMVin/total)*100;
 			double procentXDISCCD = (totalkosztXDISCCD/total)*100;
 			double procentXDISCVin = (totalkosztXDISCVin/total)*100;
 			double procentPVD = (totalkosztPVD/total)*100;
+			double procentPVP = (totalkosztPVP/total)*100;
 			double procentZ = (totalkosztZ/total)*100;
+			
 			
 			jLabel65.setText(String.format("%.2f",procentODMCD) + " %");
 			jLabel66.setText(String.format("%.2f",procentODMVin) + " %");
 			jLabel67.setText(String.format("%.2f",procentXDISCCD) + " %");
 			jLabel68.setText(String.format("%.2f",procentXDISCVin) + " %");
 			jLabel69.setText(String.format("%.2f",procentPVD) + " %");
+			jLabel69_1.setText(String.format("%.2f",procentPVP) + " %");
 			jLabel70.setText(String.format("%.2f",procentZ) + " %");
 						
 		} 
@@ -666,6 +726,7 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 		String adres2 = "pawel.jazdzyk@x-disc.pl";
     	String adres3 = "anna.cudnik@x-disc.pl";
 		//String adres3 = "ochitos@gmail.com";
+    	//String adres3 = "pawel.jazdzyk@x-disc.pl";
     	String adres4 = "karolina.pawlak@x-disc.pl";
 		//String adres4 = "jazdzyk.pawel@gmail.com";
     	   	
@@ -680,6 +741,7 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 				"|X DISC CD     -   " + jLabel67.getText() +"\n" +
 				"|X DISC Winyl  -   " + jLabel68.getText() +"\n" +
 				"|PVD           -   " + jLabel69.getText() +"\n" +
+				"|PVP           -   " + jLabel69_1.getText() +"\n" +
 				"|Zarząd        -   " + jLabel70.getText() +"\n\n\n" +
 				"Raport przygotował: " + username  +"\n\n\n\n" +
 				"Raport wygenerowany automatycznie przez System Raportowania X DISC."
@@ -793,4 +855,6 @@ public class FlotaKosztyWindow extends javax.swing.JFrame {
 	private static JDateChooser dateChooser_1;
 	private JLabel lblcznieKm;
 	public static javax.swing.JLabel jLabel55_1;
+	private static JLabel jLabel44_1;
+	private static JLabel jLabel69_1;
 }

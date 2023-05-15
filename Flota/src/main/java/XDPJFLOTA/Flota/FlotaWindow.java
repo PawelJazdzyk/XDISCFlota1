@@ -235,7 +235,7 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel5.setForeground(new java.awt.Color(102, 102, 102));
         jLabel5.setText("Dział 1:");
 
-        jComboBox2.setModel(new DefaultComboBoxModel(new String[] {"ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVD", "Zarząd", "Serwis"}));
+        jComboBox2.setModel(new DefaultComboBoxModel(new String[] {"ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVD", "PVP", "Zarząd", "Serwis"}));
         jComboBox2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
               odblokuj();
@@ -244,12 +244,12 @@ public class FlotaWindow extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(102, 102, 102));
         jLabel6.setText("Dział 2:");
 
-        jComboBox3.setModel(new DefaultComboBoxModel(new String[] {"-----", "ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVD", "Zarząd"}));
+        jComboBox3.setModel(new DefaultComboBoxModel(new String[] {"-----", "ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVP", "PVD", "Zarząd"}));
 
         jLabel7.setForeground(new java.awt.Color(102, 102, 102));
         jLabel7.setText("Koszty serwisu:");
 
-        jComboBox4.setModel(new DefaultComboBoxModel(new String[] {"ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVD", "Zarząd"}));
+        jComboBox4.setModel(new DefaultComboBoxModel(new String[] {"ODM", "ODM CD", "ODM Winyl", "X DISC", "X DISC CD", "X DISC Winyl", "PVD", "PVP", "Zarząd"}));
 
         jLabel8.setForeground(new java.awt.Color(102, 102, 102));
         jLabel8.setText("Cel:");
